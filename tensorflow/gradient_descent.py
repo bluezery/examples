@@ -1,3 +1,4 @@
+#Ref: https://www.youtube.com/watch?v=mQGwjrStQgg&feature=youtu.be
 import tensorflow as tf
 x_train = [1, 2, 3]
 y_train = [1, 2, 3]
